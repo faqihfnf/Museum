@@ -1,0 +1,21 @@
+body {
+  background-color: lightsalmon;
+  font-family: "Quicksand", sans-serif;
+}
+
+#navbar {
+  font-size: 1.5rem;
+  font-weight: 200;
+}
+
+#navbar .nav-link {
+  color: white;
+}
+
+#navbar .nav-link:hover {
+  color: darkslategrey;
+}
+
+#navbar .navbar-brand {
+  color: slategrey;
+}
